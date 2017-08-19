@@ -1,0 +1,75 @@
+body {
+	background-image: url("../images/background-pattern.jpg");
+}
+
+.header {
+	margin: 0px 0px 0px 10px;
+	background-color: #D67D00;
+	display: inline-block;
+}
+
+.header-text {
+	text-align: center;
+	color: white;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-size: 25px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.instructions {
+	background-color: white;
+	border: 3px solid #D67D00;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	margin: 10px 0px 10px 10px;
+	padding: 5px 0px 0px 5px;
+}
+
+.random-number {
+	margin: 10px 0px 10px 10px;
+	background-color: #4AAAA5;
+	height: 100px;
+	width: 200px;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 5px 0px 0px 15px;
+}
+
+.score {
+	margin: 10px 0px 10px 10px;
+	background-color: #707272;
+	color: white;
+	width: 200px;
+}
+
+.scoretext {
+	padding: 5px;
+}
+
+.crystal-image {
+	height: 75px;
+}
+
+.total-score {
+	margin: 10px 0px 10px 10px;
+	background-color: #4AAAA5;
+	color: white;
+	width: 200px;
+}
+
+.crystal-value {
+	margin: 10px 0px 10px 10px;
+	background-color: #4AAAA5;
+	height: 100px;
+	width: 200px;
+	padding: 5px 0px 0px 15px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+}
+
+
+
+
