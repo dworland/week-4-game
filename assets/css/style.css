@@ -24,6 +24,7 @@ body {
 	font-weight: bold;
 	margin: 10px 0px 10px 10px;
 	padding: 5px 0px 0px 5px;
+	width: 1000px;
 }
 
 .random-number {
@@ -46,6 +47,7 @@ body {
 
 .scoretext {
 	padding: 5px;
+	font-size: 18px;
 }
 
 .crystal-image {
