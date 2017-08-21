@@ -47,7 +47,7 @@ body {
 
 .scoretext {
 	padding: 5px;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 .crystal-image {
@@ -59,6 +59,8 @@ body {
 	background-color: #4AAAA5;
 	color: white;
 	width: 200px;
+	padding: 5px;
+	font-size: 16px;
 }
 
 .crystal-value {
